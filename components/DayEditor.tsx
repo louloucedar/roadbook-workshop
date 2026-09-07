@@ -1,6 +1,6 @@
 "use client";
 
-import type { Day } from "@/lib/schema";
+import type { Day, TimelineBlock } from "@/lib/schema";
 
 export function DayEditor({
   day,
@@ -216,7 +216,7 @@ function SegRow({
   onDown,
   onDelete,
 }: {
-  seg: Day["timeline"][number];
+  seg: TimelineBlock;
   onTimeChange: (v: string) => void;
   onActivityChange: (v: string) => void;
   onPlaceChange: (v: string) => void;
@@ -238,7 +238,7 @@ function SegRow({
         <div className="seg-place">
           <input
             type="text"
-            placeholder="地点(选填,如"泸定桥"——填了才能测距)"
+            placeholder="地点(选填,如「泸定桥」——填了才能测距)"
             defaultValue={seg.place || ""}
             onBlur={e => onPlaceChange(e.target.value)}
           />
