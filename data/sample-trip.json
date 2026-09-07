@@ -1,0 +1,1114 @@
+{
+  "$schemaVersion": "0.1",
+  "id": "cx-xiaohuanxian-hailuogou-lixiaolu-2026",
+  "title": "川西小环线 · 海螺沟 · 理小路",
+  "subtitle": "11天10晚亲子房车自驾行程",
+  "dateRange": {
+    "start": "2026-09-26",
+    "end": "2026-10-06"
+  },
+  "origin": "杭州",
+  "destination": "成都（还车后返程杭州）",
+  "travelers": {
+    "adults": 2,
+    "kids": [
+      {
+        "age": 5
+      },
+      {
+        "age": 5
+      }
+    ]
+  },
+  "vehicle": {
+    "type": "依维柯 3.0T 柴油自动挡房车",
+    "battery": "10度电",
+    "waterTankL": 270
+  },
+  "days": [
+    {
+      "dayIndex": 1,
+      "date": "2026-09-26",
+      "weekday": "周六",
+      "summary": "杭州8:00飞成都(GJ8387·天府T2) → 提车验车 → 当天开到海螺沟",
+      "drive": {
+        "raw": "~285km·4h（机场→取车点63km另计）",
+        "distanceKmApprox": 285,
+        "durationMinApprox": 240
+      },
+      "overnight": {
+        "raw": "磨西镇·文若贡嘎壹号（1500m）",
+        "elevationM": 1500
+      },
+      "notes": "落地天府+延误→现实19:00后夜车；赶不到改宿成都",
+      "planBlocks": [
+        "GJ8387 杭州萧山T3 08:00起飞 → 11:05落地成都天府T2(实际~11:30) → 取行李(转盘17) → 打车63km去西河万事诚汽车城(成洛大道3538号)提车验车 → 大润发采购 → 当天开到海螺沟磨西镇"
+      ],
+      "timeline": []
+    },
+    {
+      "dayIndex": 2,
+      "date": "2026-09-27",
+      "weekday": "周日",
+      "summary": "海螺沟全天：大冰瀑布 + 冰川舌 + 红石滩",
+      "drive": {
+        "raw": "—",
+        "distanceKmApprox": null,
+        "durationMinApprox": null
+      },
+      "overnight": {
+        "raw": "磨西镇（连住）",
+        "elevationM": null
+      },
+      "notes": "低海拔现代冰川，带娃友好",
+      "planBlocks": [
+        "海螺沟全天(快速精华线)：游客中心→观光车→干河坝→索道上四号营地→干河坝→三号营地(冰川舌/城门洞/月牙湖)→草海子→一号营地红石滩→观光车返回"
+      ],
+      "timeline": []
+    },
+    {
+      "dayIndex": 3,
+      "date": "2026-09-28",
+      "weekday": "周一",
+      "summary": "上午磨西古镇溜达 → 中午泸定（午餐+泸定桥） → 下午康定（情歌广场/溜溜城）",
+      "drive": {
+        "raw": "~110km·2.5h",
+        "distanceKmApprox": 110,
+        "durationMinApprox": 150
+      },
+      "overnight": {
+        "raw": "康定（2560m）",
+        "elevationM": 2560
+      },
+      "notes": "进藏门户+高反适应第一晚·海拔从1500m升到2560m·伞岗坪房车营地·别让孩子蹦跳",
+      "planBlocks": [
+        "【早】磨西镇慢早餐 + 古镇/天主教堂溜达 + 房车水电补给",
+        "【午】磨西出发→G318经烹坝乡看大渡河→50km·1.5h到泸定(1330m)→午餐+泸定桥游玩(2h)",
+        "【下午】泸定→小天都隧道→48km·1h到康定(2560m)→入住伞岗坪房车营地",
+        "【晚】溜溜城/情歌广场散步+牦牛汤锅晚餐→回营地早睡(迎接明天折多山)"
+      ],
+      "timeline": [
+        {
+          "time": "07:30-09:00",
+          "activity": "起床+磨西早餐（豆浆包子稀饭，小镇上很多）；房车加水上电"
+        },
+        {
+          "time": "09:00-10:30",
+          "activity": "磨西古镇+法式天主教堂(免费)+可选贡嘎神汤温泉(98/人)"
+        },
+        {
+          "time": "10:30-11:00",
+          "activity": "磨西出发→G318北上，沿大渡河左岸行进"
+        },
+        {
+          "time": "11:00-12:30",
+          "activity": "抵达泸定县城(1330m)；午餐推荐「高家豆花饭」(开湘路57号·人均27)"
+        },
+        {
+          "time": "12:30-14:30",
+          "activity": "★泸定桥(10元门票·103m·康熙1706年建)：走铁索木板看大渡河+红军纪念馆"
+        },
+        {
+          "time": "14:30-16:30",
+          "activity": "泸定→G318翻小天都隧道→上到康定(2560m)；中途烹坝乡/瓦泽乡停车观大渡河"
+        },
+        {
+          "time": "16:30-17:30",
+          "activity": "入住康定伞岗坪房车营地(20元/晚)接水电+检查房车"
+        },
+        {
+          "time": "17:30-19:30",
+          "activity": "溜溜城/情歌广场散步+晚餐牦牛菌汤锅(人均80-100)"
+        },
+        {
+          "time": "19:30-20:30",
+          "activity": "回营地洗漱(简单冲，不洗头)；孩子最迟20:30入睡"
+        }
+      ]
+    },
+    {
+      "dayIndex": 4,
+      "date": "2026-09-29",
+      "weekday": "周二",
+      "summary": "康定 → 南无寺(免费) → 折多山4298m → 新都桥 → 贡嘎海棠营地",
+      "drive": {
+        "raw": "~100km·3h",
+        "distanceKmApprox": 100,
+        "durationMinApprox": 180
+      },
+      "overnight": {
+        "raw": "贡嘎海棠营地（3300m）",
+        "elevationM": 3300
+      },
+      "notes": "贡嘎海棠营地拍贡嘎日落+星空·配套优于甲根坝·新都桥商超20km",
+      "planBlocks": [
+        "【早】康定营地早餐 → ★南无寺(免费·城南2.5km) → 翻折多山垭口4298m",
+        "【午】折多山快停 → 新都桥(3300m)午餐 → 逛摄影家天堂(瓦泽乡/青杨林)",
+        "【下午】新都桥→G248南下20km到贡嘎海棠营地(3300m)",
+        "【晚】宿贡嘎海棠营地，看贡嘎日照金山+星空"
+      ],
+      "timeline": [
+        {
+          "time": "07:30-08:00",
+          "activity": "康定营地早餐+房车补水"
+        },
+        {
+          "time": "08:00-09:30",
+          "activity": "★南无寺(小红书收藏·免费·08:00-16:00)：康定城南2.5km车程10分钟"
+        },
+        {
+          "time": "09:30-10:30",
+          "activity": "康定出发翻折多山(垭口4298m·房车极难停)"
+        },
+        {
+          "time": "10:30-11:00",
+          "activity": "垭口快停拍照即走(别久留·风大)"
+        },
+        {
+          "time": "11:00-12:00",
+          "activity": "长下坡(发动机制动)→新都桥3300m"
+        },
+        {
+          "time": "12:00-13:00",
+          "activity": "新都桥午餐"
+        },
+        {
+          "time": "13:00-15:30",
+          "activity": "新都桥\"摄影家天堂\"：瓦泽乡·贡嘎观景台·溪流青杨林(下午光最好)"
+        },
+        {
+          "time": "15:30-16:00",
+          "activity": "新都桥→G248南下20km到贡嘎海棠营地(3300m·导航\"贡嘎海棠露营地\")"
+        },
+        {
+          "time": "16:00-17:30",
+          "activity": "入住贡嘎海棠营地接水电；营地周边可拍贡嘎方向"
+        },
+        {
+          "time": "17:30-19:30",
+          "activity": "★贡嘎海棠营地拍贡嘎日照金山(18:30-19:30最佳·免费)"
+        },
+        {
+          "time": "19:30-20:30",
+          "activity": "野炊晚餐+早睡(高反第一晚·不洗澡)"
+        }
+      ]
+    },
+    {
+      "dayIndex": 5,
+      "date": "2026-09-30",
+      "weekday": "周三",
+      "summary": "贡嘎海棠营地 → 甲根坝方向(贡嘎晨景) + ★纳提村 → 回新都桥补给 → 塔公(木雅大寺) → 姑弄村扎营",
+      "drive": {
+        "raw": "~125km·3.5h（新增甲根坝来回~60km）",
+        "distanceKmApprox": 125,
+        "durationMinApprox": 210
+      },
+      "overnight": {
+        "raw": "姑弄村（3500m）",
+        "elevationM": 3500
+      },
+      "notes": "雅拉日落金山+星空·9/30比原紧30分钟·早上先拍贡嘎晨景再回塔公",
+      "planBlocks": [
+        "【早】贡嘎海棠营地 → 甲根坝方向(贡嘎晨景+纳提村) → 回新都桥补给",
+        "【午】新都桥→塔公+★木雅大寺 → 塔公镇午餐（比原计划晚1h）",
+        "【下午】进姑弄村扎营，溪流+雅拉雪山",
+        "【晚】宿姑弄村，看雅拉日落金山+星空"
+      ],
+      "timeline": [
+        {
+          "time": "07:00-07:30",
+          "activity": "营地早餐+收拾装备（今晚住姑弄村，不回营地）"
+        },
+        {
+          "time": "07:30-08:00",
+          "activity": "开车往甲根坝方向（30km·45min·G248南下）"
+        },
+        {
+          "time": "08:00-09:00",
+          "activity": "★贡嘎晨景：甲根坝观景台拍贡嘎日出（金山+晨雾）"
+        },
+        {
+          "time": "09:00-10:30",
+          "activity": "★纳提村(花海+晨雾+草甸)：木雅古村落「油画世界」"
+        },
+        {
+          "time": "10:30-11:30",
+          "activity": "回程新都桥方向(30km·45min·走原G248)，新都桥补给水电"
+        },
+        {
+          "time": "11:30-12:30",
+          "activity": "新都桥午餐+给房车补满水"
+        },
+        {
+          "time": "12:30-13:10",
+          "activity": "新都桥→塔公(S434·约30km)"
+        },
+        {
+          "time": "13:10-14:50",
+          "activity": "★木雅大寺(塔公小色达)：金塔(用金80-100kg)+红墙僧舍+世界最大玛尼堆"
+        },
+        {
+          "time": "14:50-15:30",
+          "activity": "塔公镇简餐(牦牛汤锅60-80/人)"
+        },
+        {
+          "time": "15:30-16:00",
+          "activity": "塔公→姑弄村(S434塔公右转G248·村道约10分钟)"
+        },
+        {
+          "time": "16:00-18:30",
+          "activity": "姑弄村扎营：溪流边搭天幕、孩子玩水、拍照(岗日达瓦咖啡可歇脚)"
+        },
+        {
+          "time": "18:30-19:30",
+          "activity": "★雅拉雪山日落金山(10月日落偏早·抓住18:30-19:30黄金段)"
+        },
+        {
+          "time": "19:30-21:00",
+          "activity": "野炊晚餐+看星空银河"
+        }
+      ]
+    },
+    {
+      "dayIndex": 6,
+      "date": "2026-10-01",
+      "weekday": "周四",
+      "summary": "姑弄村 → 墨石公园 → 八美 → 格达梁子 → 丹巴甲居藏寨",
+      "drive": {
+        "raw": "~120km·3h",
+        "distanceKmApprox": 120,
+        "durationMinApprox": 180
+      },
+      "overnight": {
+        "raw": "甲居藏寨（2000m）",
+        "elevationM": 2000
+      },
+      "notes": "国庆首日下撤低海拔·与进城车流反向错峰·格达梁子骑马避坑",
+      "planBlocks": [
+        "【早】姑弄村日出 → 墨石公园(异星地貌)",
+        "【午】八美午餐 → 格达梁子垭口(骑马+雅拉雪山)",
+        "【下午】下坡到丹巴甲居藏寨",
+        "【晚】宿甲居藏寨(2000m)"
+      ],
+      "timeline": [
+        {
+          "time": "07:30-08:00",
+          "activity": "姑弄村日出+早餐(看日照金山)"
+        },
+        {
+          "time": "08:00-09:00",
+          "activity": "姑弄村→墨石公园(约30min)"
+        },
+        {
+          "time": "09:00-11:00",
+          "activity": "墨石公园(门票60+观光车20·异星地貌·穿亮色衣服出片)"
+        },
+        {
+          "time": "11:00-12:00",
+          "activity": "墨石→八美午餐"
+        },
+        {
+          "time": "12:00-14:00",
+          "activity": "八美→格达梁子垭口(约3900-4200m)"
+        },
+        {
+          "time": "14:00-15:00",
+          "activity": "★格达梁子：观景台俯瞰草原+远眺雅拉5820m+藏民骑马+红军石刻标语"
+        },
+        {
+          "time": "15:00-17:00",
+          "activity": "垭口长下坡(发动机制动)→丹巴甲居藏寨2000m"
+        },
+        {
+          "time": "17:00-18:00",
+          "activity": "入住甲居藏寨营地"
+        },
+        {
+          "time": "18:00-20:00",
+          "activity": "晚餐早睡"
+        }
+      ]
+    },
+    {
+      "dayIndex": 7,
+      "date": "2026-10-02",
+      "weekday": "周五",
+      "summary": "甲居晨雾+观景台 → 中路藏寨（并成一天）",
+      "drive": {
+        "raw": "~20km·40min",
+        "distanceKmApprox": 20,
+        "durationMinApprox": null
+      },
+      "overnight": {
+        "raw": "丹巴县城（2000m）",
+        "elevationM": 2000
+      },
+      "notes": "国庆第2天·**杭州户口免门票**·上午甲居晨雾+下午中路古碉楼·一天双寨",
+      "planBlocks": [
+        "【早】甲居晨雾 + 1号→2号→3号观景台（杭州户口免门票）",
+        "【午】藏家午餐（藏式土火锅/牦牛汤锅）",
+        "【下午】中路藏寨（20km·40min·免费·古碉楼+金顶寺庙）",
+        "【晚】宿丹巴县城（2000m）"
+      ],
+      "timeline": [
+        {
+          "time": "07:30-08:00",
+          "activity": "甲居营地早餐，看晨雾缭绕的藏房"
+        },
+        {
+          "time": "08:00-09:30",
+          "activity": "1号观景台(晨雾)+2号观景台(全景)，看红白藏房+碉楼"
+        },
+        {
+          "time": "09:30-11:00",
+          "activity": "3号观景台(居高临下)+碉楼群，孩子看藏房碉楼"
+        },
+        {
+          "time": "11:00-12:30",
+          "activity": "藏家午餐：藏式土火锅/牦牛汤锅(人均50-80)"
+        },
+        {
+          "time": "12:30-13:10",
+          "activity": "甲居→中路藏寨(约20km·40min，经丹巴县城)"
+        },
+        {
+          "time": "13:10-15:30",
+          "activity": "★中路藏寨(免费)：白藏房+金顶寺庙+81座古碉楼，比甲居原始安静"
+        },
+        {
+          "time": "15:30-16:30",
+          "activity": "下山到丹巴县城，入住/补给水电"
+        },
+        {
+          "time": "16:30-18:00",
+          "activity": "县城遛弯，孩子休息恢复体力"
+        },
+        {
+          "time": "18:00-20:00",
+          "activity": "晚餐早睡(明天开车去四姑娘山)"
+        }
+      ]
+    },
+    {
+      "dayIndex": 8,
+      "date": "2026-10-03",
+      "weekday": "周六",
+      "summary": "丹巴 → 小金 → 四姑娘山双桥沟",
+      "drive": {
+        "raw": "~110km·2.5h",
+        "distanceKmApprox": 110,
+        "durationMinApprox": 150
+      },
+      "overnight": {
+        "raw": "四姑娘山镇（3200m）",
+        "elevationM": 3200
+      },
+      "notes": "观光车公交式随上随下·门票80+观光车70·提前1天预约",
+      "planBlocks": [
+        "【早】丹巴出发→小金→四姑娘山镇（约110km·2.5h）",
+        "【午】双桥沟：观光车直达红杉林→逐站下行",
+        "【下午】牛棚子→撵鱼坝→盆景滩→人参果坪",
+        "【晚】宿四姑娘山镇（3200m）"
+      ],
+      "timeline": [
+        {
+          "time": "07:00-07:30",
+          "activity": "早餐出发(今天有车程+景区，早走)"
+        },
+        {
+          "time": "07:30-10:00",
+          "activity": "丹巴→小金→四姑娘山镇(约110km·2.5h，路况好)"
+        },
+        {
+          "time": "10:00-10:30",
+          "activity": "猫鼻梁观景台(3400m)远眺四姑娘山四峰全景"
+        },
+        {
+          "time": "10:30-15:00",
+          "activity": "双桥沟游览(门票80+观光车70)：观光车直达红杉林3800m→逐站下行"
+        },
+        {
+          "time": "15:00-16:00",
+          "activity": "出沟，入住四姑娘山镇营地(3200m)"
+        },
+        {
+          "time": "16:00-18:00",
+          "activity": "营地休整(今晚不洗澡·高反适应)"
+        },
+        {
+          "time": "18:00-20:00",
+          "activity": "晚餐早睡"
+        }
+      ]
+    },
+    {
+      "dayIndex": 9,
+      "date": "2026-10-04",
+      "weekday": "周日",
+      "summary": "四姑娘山 → 小金 → 进理小路（结斯沟/红石滩）",
+      "drive": {
+        "raw": "~85km·2h",
+        "distanceKmApprox": 85,
+        "durationMinApprox": 120
+      },
+      "overnight": {
+        "raw": "理小路·向花村（3050m）",
+        "elevationM": 3050
+      },
+      "notes": "下午先探结斯沟、红石滩",
+      "planBlocks": [
+        "【早】四姑娘山→小金（务必加满柴油）",
+        "【午】进理小路，探结斯沟、红石滩",
+        "【下午】凉台沟/森林河谷",
+        "【晚】宿向花村（3050m）"
+      ],
+      "timeline": [
+        {
+          "time": "07:30-08:00",
+          "activity": "早餐"
+        },
+        {
+          "time": "08:00-09:00",
+          "activity": "四姑娘山→小金；**小金务必加满柴油**"
+        },
+        {
+          "time": "09:00-11:00",
+          "activity": "进理小路：结斯沟、红石滩(冰川红石)"
+        },
+        {
+          "time": "11:00-12:30",
+          "activity": "沿途森林河谷午餐(自带路餐·理小路无商店)"
+        },
+        {
+          "time": "12:30-16:00",
+          "activity": "凉台沟/马槽沟，雪山脚下森林河谷"
+        },
+        {
+          "time": "16:00-17:00",
+          "activity": "抵达向花村(3050m)，入住营地接水电"
+        },
+        {
+          "time": "17:00-20:00",
+          "activity": "晚餐早睡(海拔3050m，不洗澡)"
+        }
+      ]
+    },
+    {
+      "dayIndex": 10,
+      "date": "2026-10-05",
+      "weekday": "周一",
+      "summary": "走完理小路 → 理县 → 成都",
+      "drive": {
+        "raw": "~300km·5h",
+        "distanceKmApprox": 300,
+        "durationMinApprox": 300
+      },
+      "overnight": {
+        "raw": "成都（500m）",
+        "elevationM": 500
+      },
+      "notes": "出发前加满柴油",
+      "planBlocks": [
+        "【早】一早走完理小路（大二普/凉台沟/理小隧道）",
+        "【午】理县午餐",
+        "【下午】理县→成都（约300km·5h）",
+        "【晚】宿成都"
+      ],
+      "timeline": [
+        {
+          "time": "06:30-07:00",
+          "activity": "早起出发(全程最长一天)"
+        },
+        {
+          "time": "07:00-11:00",
+          "activity": "走完理小路核心段：大二普、凉台沟、理小隧道(早上光线最好)"
+        },
+        {
+          "time": "11:00-12:00",
+          "activity": "到理县，午餐"
+        },
+        {
+          "time": "12:00-17:00",
+          "activity": "理县→成都(约300km·5h)，高速+绕城"
+        },
+        {
+          "time": "17:00-18:00",
+          "activity": "成都入住，还车准备"
+        },
+        {
+          "time": "18:00-20:00",
+          "activity": "晚餐(成都火锅收官)"
+        }
+      ]
+    },
+    {
+      "dayIndex": 11,
+      "date": "2026-10-06",
+      "weekday": "周二",
+      "summary": "成都熊猫基地（可选）→ 还车 → 返程杭州",
+      "drive": {
+        "raw": "—",
+        "distanceKmApprox": null,
+        "durationMinApprox": null
+      },
+      "overnight": null,
+      "notes": "**6岁/1.3m以下儿童免票免预约**·还车前加满油·拍车况",
+      "planBlocks": [
+        "【早】成都熊猫基地（可选·6岁以下免票）",
+        "【午】还车（加满油·清垃圾·拍车况）",
+        "【下午】返程杭州"
+      ],
+      "timeline": [
+        {
+          "time": "07:00-07:30",
+          "activity": "早餐(可选去熊猫基地，早到看熊猫活跃)"
+        },
+        {
+          "time": "07:30-11:00",
+          "activity": "熊猫基地(门票55元·**6岁/1.3m以下儿童免票免预约**·观光车30元)：月亮产房看熊猫宝宝"
+        },
+        {
+          "time": "11:00-12:00",
+          "activity": "回程取房车"
+        },
+        {
+          "time": "12:00-13:30",
+          "activity": "还车：加满油、清空垃圾、核对车况拍照"
+        },
+        {
+          "time": "13:30-14:00",
+          "activity": "前往机场(双流或天府，按返程航班)"
+        }
+      ]
+    }
+  ],
+  "camps": [
+    {
+      "id": 1,
+      "direction": "成都出发",
+      "name": "仕爵房车营地",
+      "category": "过夜营地",
+      "elevationM": 500,
+      "location": "龙泉驿区外东洪路（成洛大道旁、十陵立交附近）",
+      "amenities": "可接水电、过夜；电话 13699441719",
+      "kidCategoryTag": "overnight_kid_friendly",
+      "kidFriendlyAdvice": "可过夜（带娃友好）",
+      "note": "离提车点（西河万事诚汽车城）最近，几分钟车程"
+    },
+    {
+      "id": 2,
+      "direction": "成都出发",
+      "name": "蔚然花海房车营地",
+      "category": "过夜营地",
+      "elevationM": 500,
+      "location": "洛带古镇旁（同安街道花海路8号）",
+      "amenities": "4A景区内、有卫生间、需门票",
+      "kidCategoryTag": "overnight_ok",
+      "kidFriendlyAdvice": "可过夜",
+      "note": "备选1，孩子能玩，过夜需提前确认"
+    },
+    {
+      "id": 3,
+      "direction": "成都出发",
+      "name": "知北营地",
+      "category": "过夜营地",
+      "elevationM": 500,
+      "location": "青龙湖湿地南侧",
+      "amenities": "有房车位+220V电、需预约",
+      "kidCategoryTag": "overnight_ok",
+      "kidFriendlyAdvice": "可过夜",
+      "note": "备选2，轻奢帐篷为主、价格偏高"
+    },
+    {
+      "id": 4,
+      "direction": "海螺沟方向",
+      "name": "文若贡嘎壹号观景雅院",
+      "category": "过夜营地",
+      "elevationM": 1500,
+      "location": "磨西镇燕子沟路81号（景区游客中心旁，步行几分钟进沟）",
+      "amenities": "房车可进营地接水电+充电桩；温泉118/人、泳池98/人、早餐自助18/人；儿童托管免费",
+      "kidCategoryTag": "overnight_kid_friendly",
+      "kidFriendlyAdvice": "可过夜（带娃友好）",
+      "note": "海螺沟前夜首选（4.8分）；正对中山峰可看日照金山；亲子设施全"
+    },
+    {
+      "id": 5,
+      "direction": "海螺沟方向",
+      "name": "栖云雅苑花园民宿",
+      "category": "过夜营地",
+      "elevationM": 1500,
+      "location": "磨西镇大杉树四组37号（贡嘎大道，距游客中心步行2分钟）",
+      "amenities": "**地面私人停车场（住客专用）+直流充电桩**；营地可供电/可明火/可自带帐篷/可过夜；儿童托管+浴袍/玩具/牙刷免费；私享浴缸；全屋智能；自助早餐免费儿童",
+      "kidCategoryTag": "overnight_kid_friendly",
+      "kidFriendlyAdvice": "可过夜（带娃友好）",
+      "note": "5.0分；2026新开业10间房；起价¥179；押金¥100；电话19149972118；推窗看日照金山；4种房型含山野侘寂风"
+    },
+    {
+      "id": 6,
+      "direction": "海螺沟方向",
+      "name": "南门关贡嘎东坡户外1号基地",
+      "category": "过夜营地",
+      "elevationM": 2200,
+      "location": "海螺沟景区南门关（离磨西镇约10km，雅家埂S434红石公园旁）",
+      "amenities": "五大星空营地（星月车汇=房车/车辆露营）；电话 18828869866",
+      "kidCategoryTag": "overnight_ok",
+      "kidFriendlyAdvice": "可过夜（待确认房车水电）",
+      "note": "官方野奢营地，风景最好（观爱德嘉峰雪山+红石滩）；离沟口10km次日需折返"
+    },
+    {
+      "id": 7,
+      "direction": "海螺沟方向",
+      "name": "伞岗坪房车营地（咱里村）",
+      "category": "过夜营地",
+      "elevationM": 1800,
+      "location": "泸定兴康特大桥旁（G318）",
+      "amenities": "24h开放、20元、128车位、11个充电桩、水电齐全",
+      "kidCategoryTag": "overnight_kid_friendly",
+      "kidFriendlyAdvice": "可过夜（带娃友好）",
+      "note": "标准营地但属途中过夜站（离磨西约1h车程）"
+    },
+    {
+      "id": 8,
+      "direction": "海螺沟方向",
+      "name": "若丁山7号营地",
+      "category": "民宿/露营点",
+      "elevationM": 2300,
+      "location": "磨西镇柏秧坪村（离磨西镇约16km，盘山碎石窄路）",
+      "amenities": "木屋980-1580/晚；帐篷100/人(儿童免费)；一日游打卡100/人；BBQ128/位",
+      "kidCategoryTag": "unclassified",
+      "kidFriendlyAdvice": "需换乘·房车难上",
+      "note": "房车开不上碎石窄路，停磨西镇换乘当地车(约1h)；海螺沟前夜不建议，适合单独留一天"
+    },
+    {
+      "id": 9,
+      "direction": "海螺沟方向",
+      "name": "海螺沟半亩山庄温泉",
+      "category": "温泉民宿",
+      "elevationM": 2000,
+      "location": "柏秧坪村一组冰川桥头",
+      "amenities": "天然温泉、住宿",
+      "kidCategoryTag": "overnight_ok",
+      "kidFriendlyAdvice": "可过夜",
+      "note": "温泉型，非专门房车营地"
+    },
+    {
+      "id": 10,
+      "direction": "海螺沟方向",
+      "name": "雅家埂垭口",
+      "category": "风景停靠",
+      "elevationM": 3800,
+      "location": "磨西→康定榆磨公路",
+      "amenities": "免费、路边停车",
+      "kidCategoryTag": "never_overnight",
+      "kidFriendlyAdvice": "高海拔·绝不过夜",
+      "note": "中国红石滩观景台，只白天路过拍照"
+    },
+    {
+      "id": 11,
+      "direction": "海螺沟方向",
+      "name": "雅家情海",
+      "category": "风景停靠",
+      "elevationM": 3600,
+      "location": "雅家埂垭口附近",
+      "amenities": "—",
+      "kidCategoryTag": "never_overnight",
+      "kidFriendlyAdvice": "高海拔·绝不过夜",
+      "note": "杜鹃花海（6月），只白天过"
+    },
+    {
+      "id": 12,
+      "direction": "川西小环线方向",
+      "name": "折多山观景台",
+      "category": "风景停靠",
+      "elevationM": 4298,
+      "location": "G318 康定→新都桥垭口",
+      "amenities": "—",
+      "kidCategoryTag": "never_overnight",
+      "kidFriendlyAdvice": "高海拔·绝不过夜",
+      "note": "经幡+雪山垭口，房车极难停，快停快走"
+    },
+    {
+      "id": 13,
+      "direction": "川西小环线方向",
+      "name": "红海子 / 斯丁措",
+      "category": "风景停靠",
+      "elevationM": 4200,
+      "location": "康定机场路（省道434）",
+      "amenities": "—",
+      "kidCategoryTag": "never_overnight",
+      "kidFriendlyAdvice": "高海拔·绝不过夜",
+      "note": "雪山倒影小海子，白天串线"
+    },
+    {
+      "id": 14,
+      "direction": "川西小环线方向",
+      "name": "高尔寺山 / 黑石城",
+      "category": "风景停靠",
+      "elevationM": 4400,
+      "location": "新都桥北线",
+      "amenities": "—",
+      "kidCategoryTag": "never_overnight",
+      "kidFriendlyAdvice": "高海拔·绝不过夜",
+      "note": "远眺贡嘎+雅拉，只白天"
+    },
+    {
+      "id": 15,
+      "direction": "川西小环线方向",
+      "name": "鱼子西星空营地",
+      "category": "风景停靠",
+      "elevationM": 4200,
+      "location": "新都桥鱼子西三村",
+      "amenities": "清洁费10元/人",
+      "kidCategoryTag": "never_overnight",
+      "kidFriendlyAdvice": "高海拔·绝不过夜",
+      "note": "360°雪山+星空，绝不过夜"
+    },
+    {
+      "id": 16,
+      "direction": "川西小环线方向",
+      "name": "格底拉姆·天空之城",
+      "category": "风景停靠",
+      "elevationM": 4200,
+      "location": "鱼子西隔壁",
+      "amenities": "—",
+      "kidCategoryTag": "never_overnight",
+      "kidFriendlyAdvice": "高海拔·绝不过夜",
+      "note": "旋转木马+灯塔装置，拍照点"
+    },
+    {
+      "id": 17,
+      "direction": "川西小环线方向",
+      "name": "八郎生都观景台",
+      "category": "风景停靠",
+      "elevationM": 4200,
+      "location": "塔公镇西北15km",
+      "amenities": "—",
+      "kidCategoryTag": "never_overnight",
+      "kidFriendlyAdvice": "高海拔·绝不过夜",
+      "note": "比鱼子西人少、视野更广"
+    },
+    {
+      "id": 18,
+      "direction": "川西小环线方向",
+      "name": "塔公草原 + 塔公寺",
+      "category": "风景停靠",
+      "elevationM": 3730,
+      "location": "塔公镇",
+      "amenities": "—",
+      "kidCategoryTag": "day_stop_only",
+      "kidFriendlyAdvice": "仅白天停靠",
+      "note": "金塔+雅拉雪山同框，白天"
+    },
+    {
+      "id": 19,
+      "direction": "川西小环线方向",
+      "name": "姑弄村草甸",
+      "category": "风景停靠",
+      "elevationM": 3700,
+      "location": "塔公镇往新都桥方向",
+      "amenities": "清洁费20/车",
+      "kidCategoryTag": "day_stop_only",
+      "kidFriendlyAdvice": "仅白天停靠",
+      "note": "草甸溪流正对雅拉主峰，白天"
+    },
+    {
+      "id": 20,
+      "direction": "川西小环线方向",
+      "name": "新都桥瑞景大酒店对面",
+      "category": "过夜营地",
+      "elevationM": 3300,
+      "location": "新都桥镇",
+      "amenities": "免费、水电卫生间齐全",
+      "kidCategoryTag": "overnight_kid_friendly",
+      "kidFriendlyAdvice": "可过夜（带娃友好）",
+      "note": "吃饭方便"
+    },
+    {
+      "id": 21,
+      "direction": "川西小环线方向",
+      "name": "新都桥318西岭 / 栖林渡",
+      "category": "过夜营地",
+      "elevationM": 3300,
+      "location": "新都桥瓦泽村",
+      "amenities": "30-60元/晚、热水+充电桩",
+      "kidCategoryTag": "overnight_ok",
+      "kidFriendlyAdvice": "可过夜",
+      "note": "标准房车营地"
+    },
+    {
+      "id": 22,
+      "direction": "川西小环线方向",
+      "name": "香薰谷·薰衣草庄园",
+      "category": "过夜营地",
+      "elevationM": 2700,
+      "location": "S215 康定香薰谷",
+      "amenities": "川西驿站旁",
+      "kidCategoryTag": "overnight_ok",
+      "kidFriendlyAdvice": "可过夜",
+      "note": "海拔较低"
+    },
+    {
+      "id": 23,
+      "direction": "川西小环线方向",
+      "name": "甲居藏寨营地",
+      "category": "过夜营地",
+      "elevationM": 2000,
+      "location": "丹巴甲居藏寨景区内",
+      "amenities": "游客中心大平台免费、热水+充电",
+      "kidCategoryTag": "overnight_kid_friendly",
+      "kidFriendlyAdvice": "可过夜（带娃友好）",
+      "note": "中国最美乡村，可连住3晚错峰"
+    },
+    {
+      "id": 24,
+      "direction": "理小路方向",
+      "name": "桃坪羌寨",
+      "category": "过夜营地",
+      "elevationM": 1800,
+      "location": "理县桃坪乡",
+      "amenities": "住宿成熟",
+      "kidCategoryTag": "overnight_kid_friendly",
+      "kidFriendlyAdvice": "可过夜（带娃友好）",
+      "note": "千年石屋、羌族文化"
+    },
+    {
+      "id": 25,
+      "direction": "理小路方向",
+      "name": "甘堡藏寨",
+      "category": "过夜营地",
+      "elevationM": 1900,
+      "location": "理县",
+      "amenities": "免费参观、可补给",
+      "kidCategoryTag": "overnight_kid_friendly",
+      "kidFriendlyAdvice": "可过夜（带娃友好）",
+      "note": "藏寨补给点"
+    },
+    {
+      "id": 26,
+      "direction": "理小路方向",
+      "name": "古尔沟温泉度假区",
+      "category": "过夜营地",
+      "elevationM": 2700,
+      "location": "理县古尔沟",
+      "amenities": "温泉+住宿、可接水电",
+      "kidCategoryTag": "overnight_kid_friendly",
+      "kidFriendlyAdvice": "可过夜（带娃友好）",
+      "note": "带娃海拔适应第一站"
+    },
+    {
+      "id": 27,
+      "direction": "理小路方向",
+      "name": "毕棚沟景区营地",
+      "category": "过夜营地",
+      "elevationM": 2800,
+      "location": "毕棚沟景区内",
+      "amenities": "森林营地",
+      "kidCategoryTag": "overnight_ok",
+      "kidFriendlyAdvice": "可过夜",
+      "note": "景区内"
+    },
+    {
+      "id": 28,
+      "direction": "理小路方向",
+      "name": "凉台沟营地",
+      "category": "风景停靠",
+      "elevationM": 3000,
+      "location": "理小路核心段",
+      "amenities": "无水电",
+      "kidCategoryTag": "day_stop_only",
+      "kidFriendlyAdvice": "仅白天停靠",
+      "note": "距离雪山最近的合法观景台"
+    },
+    {
+      "id": 29,
+      "direction": "理小路方向",
+      "name": "大二普营地",
+      "category": "风景停靠",
+      "elevationM": 3800,
+      "location": "结斯乡向花村2组",
+      "amenities": "停车10元、需提前报备+70元门票",
+      "kidCategoryTag": "never_overnight",
+      "kidFriendlyAdvice": "高海拔·绝不过夜",
+      "note": "360°雪山环绕，绝不过夜"
+    },
+    {
+      "id": 30,
+      "direction": "理小路方向",
+      "name": "向花村·别斯满露营地",
+      "category": "过夜营地",
+      "elevationM": 3050,
+      "location": "向花村党群服务中心东北50m",
+      "amenities": "可接水电、厕所干净、有广场",
+      "kidCategoryTag": "overnight_kid_friendly",
+      "kidFriendlyAdvice": "可过夜（带娃友好）",
+      "note": "带娃首选，比大二普低"
+    },
+    {
+      "id": 31,
+      "direction": "理小路方向",
+      "name": "结斯沟",
+      "category": "风景停靠",
+      "elevationM": 2800,
+      "location": "结斯乡",
+      "amenities": "免费远眺冰川",
+      "kidCategoryTag": "day_stop_only",
+      "kidFriendlyAdvice": "仅白天停靠",
+      "note": "冰川观景点"
+    },
+    {
+      "id": 32,
+      "direction": "理小路方向",
+      "name": "红石滩（理小路段）",
+      "category": "风景停靠",
+      "elevationM": 3000,
+      "location": "大二普以东30分钟",
+      "amenities": "停车可达",
+      "kidCategoryTag": "day_stop_only",
+      "kidFriendlyAdvice": "仅白天停靠",
+      "note": "雪山+森林+草甸+溪流"
+    },
+    {
+      "id": 33,
+      "direction": "理小路方向",
+      "name": "贝母山垭口",
+      "category": "风景停靠",
+      "elevationM": 4500,
+      "location": "凉台沟以东",
+      "amenities": "—",
+      "kidCategoryTag": "never_overnight",
+      "kidFriendlyAdvice": "高海拔·绝不过夜",
+      "note": "早8点前云海最佳、经幡阵"
+    },
+    {
+      "id": 34,
+      "direction": "理小路方向",
+      "name": "猛固桥头",
+      "category": "风景停靠",
+      "elevationM": 2500,
+      "location": "两岔河附近",
+      "amenities": "—",
+      "kidCategoryTag": "day_stop_only",
+      "kidFriendlyAdvice": "仅白天停靠",
+      "note": "长征遗址+峡谷风光"
+    },
+    {
+      "id": 35,
+      "direction": "理小路方向",
+      "name": "空中牧场",
+      "category": "风景停靠",
+      "elevationM": 3200,
+      "location": "结斯沟深处",
+      "amenities": "—",
+      "kidCategoryTag": "day_stop_only",
+      "kidFriendlyAdvice": "仅白天停靠",
+      "note": "高山牧场、轻徒步可达"
+    },
+    {
+      "id": 36,
+      "direction": "理小路方向",
+      "name": "四姑娘山镇营地",
+      "category": "过夜营地",
+      "elevationM": 3200,
+      "location": "四姑娘山镇",
+      "amenities": "80元/晚",
+      "kidCategoryTag": "overnight_ok",
+      "kidFriendlyAdvice": "可过夜",
+      "note": "标准营地"
+    }
+  ],
+  "supplies": [
+    {
+      "category": "高反药品",
+      "item": "便携氧气瓶",
+      "note": "每人2–3罐（儿童重点）"
+    },
+    {
+      "category": "高反药品",
+      "item": "血氧仪",
+      "note": "血氧<90%立即吸氧休息"
+    },
+    {
+      "category": "高反药品",
+      "item": "葡萄糖口服液",
+      "note": "缓解高反乏力"
+    },
+    {
+      "category": "儿童药品",
+      "item": "儿童布洛芬、感冒药、晕车贴、创可贴",
+      "note": "体温计也带上"
+    },
+    {
+      "category": "车辆装备",
+      "item": "防滑链",
+      "note": "9月底垭口可能积雪，必备"
+    },
+    {
+      "category": "车辆装备",
+      "item": "拖车绳、搭电线、充气泵",
+      "note": "应急自救三件套"
+    },
+    {
+      "category": "车辆装备",
+      "item": "桶装水",
+      "note": "补给前兜底"
+    },
+    {
+      "category": "证件",
+      "item": "身份证、驾驶证、车辆保险",
+      "note": "孩子户口本/身份证"
+    },
+    {
+      "category": "电子",
+      "item": "离线地图、充电宝、车载充电器",
+      "note": "部分路段无信号，提前下载"
+    },
+    {
+      "category": "现金",
+      "item": "零钱若干",
+      "note": "部分营地/停车场只收现金"
+    },
+    {
+      "category": "孩子",
+      "item": "绘本、零食、玩具、小毛毯",
+      "note": "车上时间长，带足打发时间"
+    }
+  ],
+  "keyReminders": [
+    {
+      "theme": "首日直达成行条件",
+      "reminder": "GJ8387 杭州08:00起飞，11:05落地成都天府T2(简阳，实际约11:30，准点率63%)",
+      "response": "机场→取车点63km约1h，提车+采购后约15:00才能出发，成都→磨西285km·4h，现实19:00后才到、天已全黑夜车进山。强烈建议：天黑前赶不到就改宿成都仕爵营地，次日6:30出发、10:30进海螺沟"
+    },
+    {
+      "theme": "高反",
+      "reminder": "5岁孩子是重点，前几晚别洗澡、别跑跳",
+      "response": "血氧仪随时测，<90%吸氧休息；每天海拔爬升别超500m"
+    },
+    {
+      "theme": "理小路无补给",
+      "reminder": "全程无加油站/无商店/无充电桩",
+      "response": "出发前在小金或理县加满柴油；8:00–18:00通行，需「阿坝旅游票务」公众号登记车辆；弯道限速30"
+    },
+    {
+      "theme": "折多山4298m",
+      "reminder": "C型房车垭口极难停车",
+      "response": "快停或不停；下坡用发动机制动，别长踩刹车"
+    },
+    {
+      "theme": "用水用电",
+      "reminder": "10度电够冰箱+灯光1–2天，270L水够4人约3天",
+      "response": "隔天进营地补电、逢营地补水"
+    },
+    {
+      "theme": "国庆拥堵",
+      "reminder": "10/1–10/2为客流高峰",
+      "response": "海螺沟9/27、折多山9/29、塔公+姑弄村9/30全赶在国庆前走完；10/1(墨石+格达梁子)国庆首日下撤丹巴，与进城车流反向错峰；10/2甲居+中路一天双寨；10/3四姑娘山；10/4–5走小众理小路；10/6熊猫基地后返程"
+    },
+    {
+      "theme": "应急",
+      "reminder": "高原天气多变、部分路段无信号",
+      "response": "保存紧急电话，出发前告知亲友大致行程"
+    }
+  ]
+}
